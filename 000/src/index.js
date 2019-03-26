@@ -1,8 +1,8 @@
 import Phaser from 'phaser'
 
 import BootGame from './boot-game'
+import makeResizeGame from './make-resize-game'
 import PlayGame from './play-game'
-import makeResizeGame from './resize-game'
 
 window.onload = function () {
   const gameConfig = {
