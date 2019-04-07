@@ -1,6 +1,6 @@
 {
   "name": "com.emanueleferonato.game4096",
-  "displayName": "HelloCordova",
+  "displayName": "4096",
   "version": "1.0.0",
   "description": "A sample Apache Cordova application that responds to the deviceready event.",
   "main": "index.js",
