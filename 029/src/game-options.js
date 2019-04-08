@@ -19,8 +19,8 @@ const UP = 2
 const DOWN = 3
 
 export const directions = {
+  DOWN,
   LEFT,
   RIGHT,
-  UP,
-  DOWN
+  UP
 }

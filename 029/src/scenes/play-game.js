@@ -3,7 +3,7 @@ import Phaser from 'phaser'
 
 import gameOptions, { directions } from '../game-options'
 
-const { LEFT, RIGHT, UP, DOWN } = directions
+const { DOWN, LEFT, RIGHT, UP } = directions
 
 class PlayGame extends Phaser.Scene {
   constructor () {
